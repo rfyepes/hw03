@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+Song {
+  font-family: Arial;
+  font-size: 20px;
+  display: block;
+  border: 1px #2C2C34 solid;
+  border-radius: 3px;
+  padding: 5px;
+  margin: 20px;
+  background-color: #DAE3E5;
+}
+
+Title {
+  font-size: 24px;
+  font-weight: bold;
+  display: block;
+  color: #2C2C34;
+}
+
+Artist, Genre, Year {
+  color: white;
+  display: inline-block;
+  margin-right: 20px;
+  margin-top: 3px;
+  padding-left: 4px;
+  padding-right: 4px;
+  border-radius: 3px;
+}
+
+Artist {
+  background-color: #A1C6EA;
+}
+
+Genre {
+  background-color: #507DBC;
+}
+
+Year {
+  background-color: #04080F;
+}

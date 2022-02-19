@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href = "style.css" ?>
+
+<SetList>
+  <Song>
+    <Title>Just the Way You Are</Title>
+    <Artist>Bruno Mars</Artist>
+    <Genre>Pop</Genre>
+    <Year>2010</Year>
+  </Song>
+  <Song>
+    <Title>Locked Out of Heaven</Title>
+    <Artist>Bruno Mars</Artist>
+    <Genre>Pop</Genre>
+    <Genre>Reggae Rock</Genre>
+    <Year>2012</Year>
+  </Song>
+  <Song>
+    <Title>Marry You</Title>
+    <Artist>Bruno Mars</Artist>
+    <Genre>Pop</Genre>
+    <Genre>Doo-wop</Genre>
+    <Year>2011</Year>
+  </Song>
+  <Song>
+    <Title>Perfect</Title>
+    <Artist>Ed Sheeran</Artist>
+    <Genre>Pop</Genre>
+    <Year>2017</Year>
+  </Song>
+  <Song>
+    <Title>Come Fly with Me</Title>
+    <Artist>Frank Sinatra</Artist>
+    <Genre>Jazz</Genre>
+    <Year>1958</Year>
+  </Song>
+  <Song>
+    <Title>Fly Me to the Moon</Title>
+    <Artist>Frank Sinatra</Artist>
+    <Genre>Jazz</Genre>
+    <Year>1954</Year>
+  </Song>
+  <Song>
+    <Title>Shallow</Title>
+    <Artist>Lady Gaga</Artist>
+    <Artist>Bradley Cooper</Artist>
+    <Genre>Country</Genre>
+    <Genre>Soundtrack</Genre>
+    <Year>2018</Year>
+  </Song>
+  <Song>
+    <Title>Eclipse</Title>
+    <Artist>LOONA</Artist>
+    <Genre>K-Pop</Genre>
+    <Genre>R&amp;B</Genre>
+    <Year>2017</Year>
+  </Song>
+  <Song>
+    <Title>Sugar</Title>
+    <Artist>Maroon 5</Artist>
+    <Genre>Pop</Genre>
+    <Year>2015</Year>
+  </Song>
+  <Song>
+    <Title>Kingdom Come</Title>
+    <Artist>Red Velvet</Artist>
+    <Genre>K-Pop</Genre>
+    <Year>2017</Year>
+  </Song>
+  <Song>
+    <Title>Perfect 10</Title>
+    <Artist>Red Velvet</Artist>
+    <Genre>K-Pop</Genre>
+    <Genre>R&amp;B</Genre>
+    <Year>2017</Year>
+  </Song>
+  <Song>
+    <Title>Enchanted</Title>
+    <Artist>Taylor Swift</Artist>
+    <Genre>Country</Genre>
+    <Year>2010</Year>
+  </Song>
+  <Song>
+    <Title>Lover</Title>
+    <Artist>Taylor Swift</Artist>
+    <Genre>Pop</Genre>
+    <Year>2019</Year>
+  </Song>
+  <Song>
+    <Title>Love Story</Title>
+    <Artist>Taylor Swift</Artist>
+    <Genre>Country</Genre>
+    <Year>2008</Year>
+  </Song>
+  <Song>
+    <Title>Wildest Dreams</Title>
+    <Artist>Taylor Swift</Artist>
+    <Genre>Pop</Genre>
+    <Year>2014</Year>
+  </Song>
+</SetList>
