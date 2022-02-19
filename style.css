@@ -1,7 +1,15 @@
 @charset "UTF-8";
 
-Song {
+SetList {
   font-family: Arial;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  color: #2C2C34;
+  margin: 10px;
+}
+
+Song {
   font-size: 20px;
   display: block;
   border: 1px #2C2C34 solid;
@@ -9,17 +17,17 @@ Song {
   padding: 5px;
   margin: 20px;
   background-color: #DAE3E5;
+  text-align: left;
 }
 
 Title {
   font-size: 24px;
-  font-weight: bold;
   display: block;
-  color: #2C2C34;
 }
 
 Artist, Genre, Year {
   color: white;
+  font-weight: normal;
   display: inline-block;
   margin-right: 20px;
   margin-top: 3px;
@@ -28,14 +36,6 @@ Artist, Genre, Year {
   border-radius: 3px;
 }
 
-Artist {
-  background-color: #A1C6EA;
-}
-
-Genre {
-  background-color: #507DBC;
-}
-
-Year {
-  background-color: #04080F;
-}
+Artist { background-color: #A1C6EA; }
+Genre  { background-color: #507DBC; }
+Year   { background-color: #04080F; }
